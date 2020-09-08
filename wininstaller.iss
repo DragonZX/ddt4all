@@ -44,7 +44,7 @@ Name: "{userdesktop}\ddt4all"; Filename: "{app}\Python27\python.exe"; Parameters
 en.AfterMyProgInstall=Do not forget to install database to 
 it.AfterMyProgInstall=Non dimenticare di installare il database in 
 fr.AfterMyProgInstall=Pensez a installer une base de donnГ©e dans
-ru.AfterMyProgInstall=Не забудьте установить базу данных в  
+ru.AfterMyProgInstall=РќРµ Р·Р°Р±СѓРґСЊС‚Рµ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Р±Р°Р·Сѓ РґР°РЅРЅС‹С… РІ
 
 [Languages]
 Name: "en"; MessagesFile: "compiler:Default.isl"; 
