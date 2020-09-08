@@ -43,17 +43,18 @@ Name: "{userdesktop}\ddt4all"; Filename: "{app}\Python27\python.exe"; Parameters
 [CustomMessages]
 en.AfterMyProgInstall=Do not forget to install database to 
 it.AfterMyProgInstall=Non dimenticare di installare il database in 
-fr.AfterMyProgInstall=Pensez a installer une base de donnГ©e dans 
+fr.AfterMyProgInstall=Pensez a installer une base de donnГ©e dans
+ru.AfterMyProgInstall=Не забудьте установить базу данных в  
 
 [Languages]
-Name: "en"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Default.isl"; 
-Name: "de"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\German.isl"; 
-Name: "fr"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\French.isl"; 
-Name: "es"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Spanish.isl"; 
-Name: "hu"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Hungarian.isl"; 
-Name: "it"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Italian.isl"; 
-Name: "nl"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Dutch.isl"; 
-Name: "pl"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Polish.isl"; 
-Name: "pt"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Portuguese.isl"; 
-Name: "ru"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\Russian.isl"; 
-Name: "sr"; MessagesFile: "C:\Program Files (x86)\Inno Setup 5\Languages\SerbianLatin.isl"; 
+Name: "en"; MessagesFile: "compiler:Default.isl"; 
+Name: "de"; MessagesFile: "compiler:Languages\German.isl"; 
+Name: "fr"; MessagesFile: "compiler:Languages\French.isl"; 
+Name: "es"; MessagesFile: "compiler:Languages\Spanish.isl"; 
+Name: "hu"; MessagesFile: "compiler:Languages\Hungarian.isl"; 
+Name: "it"; MessagesFile: "compiler:Languages\Italian.isl"; 
+Name: "nl"; MessagesFile: "compiler:Languages\Dutch.isl"; 
+Name: "pl"; MessagesFile: "compiler:Languages\Polish.isl"; 
+Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; 
+Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl"; 
+Name: "sr"; MessagesFile: "compiler:Languages\SerbianLatin.isl"; 

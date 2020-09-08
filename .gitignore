@@ -1,0 +1,4 @@
+/.idea/
+*.pyc
+/Python27/
+/logs/
